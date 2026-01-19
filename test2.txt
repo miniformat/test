@@ -1,2 +1,4 @@
-vless://axcbc6f7-6c43-4137-9d9e-b82d1ad3abef@8.218.245.116:49701?encryption=none&security=tls&sni=kk1.kk2026.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=kk1.kk2026.dpdns.org&path=%2F#zCF-HK.01
-vless://axcbc6f7-6c43-4137-9d9e-b82d1ad3abef@43.132.244.52:21415?encryption=none&security=tls&sni=kk1.kk2026.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=kk1.kk2026.dpdns.org&path=%2F#zCF-HK.02
+vless://{UUID}@8.218.245.116:49701?encryption=none&security=tls&sni={SNI}&path={PATH}#MyNode
+vless://{UUID}@43.132.244.52:21415?encryption=none&security=tls&sni={SNI}&path={PATH}#MyNode
+vless://{UUID}@8.218.245.116:49701?encryption=none&security=tls&sni=kk1.kk2026.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=kk1.kk2026.dpdns.org&path=%2F#zCF-HK.01
+vless://{UUID}@43.132.244.52:21415?encryption=none&security=tls&sni=kk1.kk2026.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=kk1.kk2026.dpdns.org&path=%2F#zCF-HK.02
